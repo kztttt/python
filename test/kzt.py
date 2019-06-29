@@ -1,4 +1,5 @@
 import random as rd
+import calendar
 
 x = 1
 a = rd.randint(1, 100)
